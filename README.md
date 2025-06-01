@@ -232,6 +232,7 @@ So let's save and refresh our page.
 
 And now our button is back because we're following the rules of syntax.
 
+👉
 So what exactly are the syntax rules for H T M L?
 
 So this part of the code is called an H T M L tag.
@@ -270,6 +271,7 @@ and the closing tag starts with a slash in front of the tag name.
 
 Then our computer will know what to do and display our elements on our webpage.
 
+👉👉
 The next element that we're going to learn is a link to another website. For
 
 example, if we go to Google and we search for something on Google,
